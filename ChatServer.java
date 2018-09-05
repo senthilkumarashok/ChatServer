@@ -51,7 +51,7 @@ class ChatClient {
     
 }
 
-public class MyClass {
+public class ChatServer {
     public static void main(String args[]) {
         ChatClient client = new ChatClient();
         client.sendMessage("B@gmail.com","hi");
